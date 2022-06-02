@@ -8,6 +8,8 @@ IDE: [Vs Code](https://code.visualstudio.com)
 
 Vscode extensions: [Volar](https://marketplace.visualstudio.com/items?itemName=johnsoncodehk.volar)
 
+Essential Vue utilities: [VueUse](https://vueuse.org/)
+
 Http client: [axios](https://github.com/axios/axios)
 
 Toast notification: [vue-toastification](https://github.com/Maronato/vue-toastification)
@@ -15,6 +17,8 @@ Toast notification: [vue-toastification](https://github.com/Maronato/vue-toastif
 Date/time package: [momentJS](https://momentjs.com/docs/), [dayjs](https://day.js.org/)
 
 UI library: [Flowbite(tailwind css)](https://flowbite.com/)
+
+Form validation: [Vee-validate](https://vee-validate.logaretm.com/v4/)
 
 For more please visit [tvc-productivity](https://github.com/the-value-crew/tvc-productivity#vscode-extensions), [tvc-javascript](https://github.com/the-value-crew/tvc-javascript).
 
